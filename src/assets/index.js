@@ -34,6 +34,7 @@ import tesla from "./company/tesla.png";
 import ambsan from "./company/ambsan.png";
 import fivver from "./company/fivver.png";
 import disrupt from "./company/disrupt.png";
+import toyota from "./company/toyota.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -76,5 +77,6 @@ export {
   ambsan,
   fivver,
   disrupt,
+  toyota,
   
 };

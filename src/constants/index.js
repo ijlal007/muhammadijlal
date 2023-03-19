@@ -31,6 +31,7 @@ import {
     ambsan,
     fivver,
     disrupt,
+    toyota,
   } from "../assets";
   
   export const navLinks = [
@@ -127,7 +128,7 @@ import {
       title: "Frontend Developer",
       company_name: "Ambsan Technologies",
       icon: ambsan,
-      iconBg: "#383E56",
+      iconBg: "#0F0F0F",
       date: "Sep 2022 - Present",
       points: [
         "Developing and maintaining web applications using HTML,CSS and Js and other related technologies.",
@@ -149,29 +150,28 @@ import {
       ],
     },
     {
-      title: "Junior Research And Development Engineer",
+      title: "Junior RnD Engineer",
       company_name: "Disrupt Labs",
       icon: disrupt ,
-      iconBg: "#383E56",
+      iconBg: "#FFF",
       date: "June 2021 - June 2022",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Developed and implemented electronic circuit designs for various projects using tools such as SPICE simulations and PCB design software.",
+        "Assisted in the testing and validation of prototypes and provided feedback for design improvements to senior engineers.",
+        "Conducted research and analyzed technical data to support product development and improve existing products.",
       ],
     },
     {
-      title: "Full stack Developer",
-      company_name: "Meta",
-      icon: meta,
+      title: "Product Development Intern",
+      company_name: "Toyota - Indus Motor Corporation",
+      icon: toyota,
       iconBg: "#E6DEDD",
       date: "Jan 2023 - Present",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Contributed to the development of new vehicle models by supporting prototype testing and conducting root cause analysis on any issues that arose during the testing phase.",
+        "Worked with suppliers to coordinate the delivery of parts and components needed for the production of new vehicle models, ensuring timely and efficient production schedules.",
+        "Participated in cross-functional teams to improve existing products, implementing cost-saving measures and identifying opportunities for product enhancements.",
+        "Conducted market research and analyzed customer feedback to inform product design decisions and identify areas for improvement.",
       ],
     },
   ];
